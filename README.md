@@ -1,4 +1,4 @@
-# Python-Poll-Counter
+# Python Poll Counter
 ## Overview
 A Colorado Board of Elections Committee needs help in completing an audit of their recent election. They have asked to calculate the number of votes cast, and produce lists of the number of votes counted per candidate as well as percentage of vote received. They have also requested to get similar results with breakdowns based on county.
 
